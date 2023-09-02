@@ -33,7 +33,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  // github: "https://github.com/markushandel",
+  github: "https://github.com/markushandel",
   linkedin: "https://www.linkedin.com/in/markus-handel/",
   gmail: "markus.handel00@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
